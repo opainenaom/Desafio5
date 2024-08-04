@@ -25,7 +25,7 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #ffcc00; /* Color amarillo para el texto */
+  color: #FFA500; /* Color amarillo para el texto */
 }
 
 @media (max-width: 768px) {
